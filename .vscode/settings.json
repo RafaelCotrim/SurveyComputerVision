@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "*.synctex(busy)": true,
+        "main.aux": true,
+        "main.fdb_latexmk": true,
+        "main.fls": true,
+        "main.log": true,
+        "main.out": true,
+        "main.synctex.gz": true
+    },
+    "diffEditor.wordWrap": "off",
+    "editor.wordWrap": "on"
+}

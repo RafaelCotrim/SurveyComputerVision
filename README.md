@@ -1,11 +1,11 @@
 # Article 1
 
-## Structure
+## Article Structure
 
 - Title
 - Abstract
 - Introduction
-  - What are computer vision algorithms?
+  - What are computer vision/object detection algorithms?
   - Why are they important?
   - What is the point of this study
 - Methodology
@@ -23,3 +23,4 @@
   - Analysis
 - Conclusion
 - Data Availability Statement
+
