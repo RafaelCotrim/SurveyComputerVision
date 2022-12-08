@@ -2,25 +2,13 @@
 
 ## Article Structure
 
-- Title
-- Abstract
-- Introduction
-  - What are computer vision/object detection algorithms?
-  - Why are they important?
-  - What is the point of this study
-- Methodology
-  - Algorithm selection
-    - Eligibility criteria
-    - Sources
-  - Comparison
-    - Question to be answered
-    - Dataset (COCO)
-    - Collected statistics
-    - Hardware/Cloud (Google COLAB)
-- Results
-  - Selected algorithms
-  - Comparison results
-  - Analysis
-- Conclusion
-- Data Availability Statement
-
+1. Introduction
+2. State-of-the-Art
+  1. Computer Vision Techniques
+  2.  Related Work
+  3.  Open Research Problems
+3. Performance Evaluation
+   1. Dataset Description
+   2. Reference Benchmark Scenario
+   3. Results and Discussion
+4. Conclusions and Future Work

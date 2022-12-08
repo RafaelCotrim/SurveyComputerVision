@@ -1,6 +1,7 @@
 {
     "files.exclude": {
         "*.synctex(busy)": true,
+        "indent.log": true,
         "main.aux": true,
         "main.fdb_latexmk": true,
         "main.fls": true,
